@@ -27,7 +27,7 @@ Watch the demo video in new tab for better quality.
 1. Clone the repository
 
 ```
-git clone https://github.com/thisissandip/what-should-i-watch-next.git
+https://github.com/Aman31113/Hotstar-Clone.git
 ```
 
 2. Upload the Client Folder in Chorme Extension.
