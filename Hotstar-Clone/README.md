@@ -1,4 +1,4 @@
-# lets-party &nbsp; :tv:
+# Hotstar &nbsp; :tv:
 A chrome extension to watch Disney+ Hotsar with your friends and family built with NodeJS, Express, Socket.io and Heroku.
 
 Me and my friends couldn't find a working chrome extension to stream Marvel's Loki in Hotstar. 
